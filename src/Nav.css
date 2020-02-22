@@ -1,0 +1,18 @@
+nav {
+    background: lightblue;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    color: black;
+    float: left;
+    padding: 10px
+}
